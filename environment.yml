@@ -1,0 +1,7 @@
+name: cs197lec2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - tqdm
+prefix: /Users/xinmengzhang/miniforge3/envs/cs197lec2
